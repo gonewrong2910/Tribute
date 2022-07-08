@@ -4,6 +4,9 @@
     font-size: 80px;
     color:white ;
 }
+body{
+    background-attachment: fixed;
+}
 
 #main{
     width: 60%;
